@@ -1,0 +1,38 @@
+header,
+footer {
+    background-color: aqua;
+}
+
+body {
+    min-width: 1130px;
+}
+
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid;
+    padding: 20px 20px;
+    text-align: right;
+}
+
+caption {
+    text-align: left;
+}
+
+img {
+    width: 200px;
+}
+
+caption {
+    background-color: #ccc;
+}
+
+h3 {
+    font-size: 16px;
+    margin: 0;
+    font-weight: normal;
+}

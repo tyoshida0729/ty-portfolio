@@ -1,0 +1,18 @@
+header,
+footer {
+    background-color: #CC9966;
+}
+
+header>img {
+    width: 80%;
+    height: 80%;
+    margin: 20px 10px 0px 120px;
+}
+
+body {
+    min-width: 1130px;
+}
+
+.copy_right {
+    text-align: center;
+}
